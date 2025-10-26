@@ -1,0 +1,15 @@
+# VSCode
+.vscode/
+__pycache__/
+.venv/
+
+# Ignore local logstash directory used for dev and testing
+logstash-9.*/
+logstash-8.*/
+
+# Ignores for plugins
+*.gem
+Gemfile.lock
+Gemfile.bak
+.bundle
+vendor
