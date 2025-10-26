@@ -6,3 +6,6 @@ Scripts/tools that assist in Logstash pipeline development
 
 ## pipeline-configs
 Interesting snippits of Logstash pipelines
+
+## plugins
+Custom-developed Logstash plugins
